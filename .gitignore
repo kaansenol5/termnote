@@ -1,0 +1,5 @@
+build/
+.vscode/
+include/
+termnote
+book.json
